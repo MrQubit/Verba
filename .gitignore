@@ -6,6 +6,8 @@ __pycache__
 .python-version
 *.egg-info
 venv
+311_env
+.idea
 venv*
 dist
 build
@@ -21,3 +23,7 @@ cache.txt
 .ruff_cache
 *_secrets.json
 ollama
+/scripts/KInIT_drive_sync
+/scripts/secrets
+/scripts/token.json
+
