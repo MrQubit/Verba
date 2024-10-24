@@ -26,4 +26,4 @@ ollama
 /scripts/KInIT_drive_sync
 /scripts/secrets
 /scripts/token.json
-
+/scripts/.credentials
